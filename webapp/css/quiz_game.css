@@ -1,0 +1,58 @@
+body {
+    background: #f6dddd;
+    position: relative;
+  }
+
+  .demo-list-control {
+    width: 300px;
+  }
+  
+  .demo-list-radio {
+    display: inline;
+  }
+
+  #idQuestionElements{
+    margin: auto;
+    margin-top: 50px;
+    width: 25%;
+  }
+
+  ul{
+  margin: auto;
+  margin-top: 50px;
+  width: 25%;
+  background: #f3ecec;
+  }
+
+  #idQuestionText{
+    margin: auto;
+    width: 50%;
+    margin-left: 25%;
+  }
+
+#idButtonSubmitQuestion{
+    margin: auto;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 50px;
+}
+
+.bolded { font-weight: bold; }
+
+#idQuestionNumDiv{
+    margin: auto;
+    width: 48%;
+   
+}
+
+#idQuestionTimeDiv{
+    margin: auto;
+    width: 50%;
+    
+}
+
+#idQuestionInfo{
+    margin: auto;
+    width: 70%;
+    margin-left: 25%;
+}

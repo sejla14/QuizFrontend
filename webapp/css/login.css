@@ -1,0 +1,41 @@
+body {
+  background: #f6dddd;
+  position: relative;
+}
+
+#idLoginElements{
+  margin: auto;
+  margin-top: 200px;
+  width: 25%;
+}
+
+#idButtonLogin{
+  margin: auto;
+  width: 50%;
+  margin-left: 53px;
+}
+
+#idAccountIcon,#idLoginText{
+  margin: auto;
+  width: 50%;
+}
+
+#idAccountIcon{
+margin-left: 120px;
+}
+
+#idLoginText{
+  margin-left: 100px;
+}
+
+#idInfoMessage{
+  color: red;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
